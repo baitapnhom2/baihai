@@ -1,0 +1,8 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\bin\Debug\QLNhanS_Entity.exe.config
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\bin\Debug\QLNhanS_Entity.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\bin\Debug\QLNhanS_Entity.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\obj\Debug\QLNhanS_Entity.Properties.Resources.resources
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\obj\Debug\QLNhanS_Entity.csproj.GenerateResource.Cache
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\obj\Debug\QLNhanS_Entity.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\obj\Debug\QLNhanS_Entity.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanS_Entity\obj\Debug\QLNhanS_Entity.csprojResolveAssemblyReference.cache

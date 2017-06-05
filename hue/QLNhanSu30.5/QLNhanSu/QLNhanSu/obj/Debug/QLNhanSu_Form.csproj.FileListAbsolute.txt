@@ -1,0 +1,47 @@
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu_Form.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmdangnhap.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmdoimk.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmhopdong.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmmain.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmnhanvien.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmphongban.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmTrogiup.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu_Form.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_BUS.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_DAL.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanS_Entity.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_BUS.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_DAL.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\bin\Debug\QLNhanS_Entity.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_BUS.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_DAL.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanS_Entity.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_BUS.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_BUS.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_DAL.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu_DAL.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanS_Entity.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\bin\Debug\QLNhanS_Entity.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu_Form.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Form1.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmdangnhap.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmdoimk.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmhopdong.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmmain.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmnhanvien.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmphongban.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.frmTrogiup.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu_Form.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb

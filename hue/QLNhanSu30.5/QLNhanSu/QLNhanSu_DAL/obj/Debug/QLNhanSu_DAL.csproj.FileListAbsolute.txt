@@ -1,0 +1,21 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.Properties.Resources.resources
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.csproj.GenerateResource.Cache
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.exe.config
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanS_Entity.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanS_Entity.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanSu_DAL.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanS_Entity.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanS_Entity.pdb
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\bin\Debug\QLNhanS_Entity.exe.config
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.exe
+C:\Users\ADMIN\Downloads\THUCTAPNHOMTONGHOP\hue\QLNhanSu30.5\QLNhanSu\QLNhanSu_DAL\obj\Debug\QLNhanSu_DAL.pdb
